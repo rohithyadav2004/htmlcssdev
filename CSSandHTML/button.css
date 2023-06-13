@@ -1,0 +1,12 @@
+.desbutton{
+    padding: 5px;
+    border-end-start-radius: 15px;
+    border-end-end-radius: 15px;
+    border-start-end-radius: 15px;
+    border-start-start-radius: 15px;
+    border:1px solid #cfd9de;
+    color:#0f1419;
+    font-weight: bold;
+    padding-right: 10px;
+    padding-left: 10px;
+}

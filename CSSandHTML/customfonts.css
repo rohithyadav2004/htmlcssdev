@@ -1,0 +1,7 @@
+@font-face{
+    src: url("ParryHotter.ttf");
+    font-family: ParryHotter;
+}
+body{
+    font-family: ParryHotter;
+}

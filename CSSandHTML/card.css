@@ -1,0 +1,43 @@
+body{
+    margin: 20px;
+}
+.image{
+    width:150px;
+    height:150px;
+    border: 3px solid bisque;
+}
+.wrap{
+    padding: 20px;
+    display: flex;
+    background-image: url(BACKGROUND1.jpg);
+    width: 400px;
+    border-radius: 20px;
+}
+.wrap2{
+    font-family: Verdana;
+    display: block;
+    margin-left: 50px;
+}
+.bold{
+    font-weight: bold;
+    font-size: 20px;
+}
+.wrapA{
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url(BACKGROUND4.jpg.png);
+    width: 400px;
+    border-bottom: 6px solid #d8cefe;
+}
+.wrapB{
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    background-image: url(BACKGROUND3.jpg);
+    width: 400px;
+}
+.align{
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+body{
+    background-color: burlywood;
+    color: yellow;
+    text-align: center;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: medium;   
+    margin-top: 10px;
+}

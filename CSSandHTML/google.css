@@ -1,0 +1,27 @@
+body{
+    background-color: #202124;
+}
+.main{
+    margin-top: 210px;
+}
+.searchbar{
+    margin-top: 20px;
+    width: 570px;
+    height: 32px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    text-indent: 35px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 20px;
+    padding-left:20px;
+    border:2px solid #bdc1c6;
+}
+.logo{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
